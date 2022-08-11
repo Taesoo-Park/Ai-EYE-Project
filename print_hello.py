@@ -9,3 +9,4 @@ print('z=',z)
 axis=x+y+z
 print('axis',axis)
 # Practise python
+type(axis)
